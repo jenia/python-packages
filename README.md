@@ -1,3 +1,3 @@
- python -m pkg.tests.core_tests
+ python -m pkg.tests.test_core
  
  python -m pytest

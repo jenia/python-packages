@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 
 from ..components.core import f
+from ..components.core import g
+
+g()
+
 
 
 def func(x):
